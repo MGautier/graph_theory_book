@@ -1,0 +1,32 @@
+\select@language {spanish}
+\contentsline {chapter}{\'Indice general}{\es@scroman {v}}{section*.3}
+\contentsline {chapter}{\IeC {\'I}ndice de Tablas}{\es@scroman {vii}}{section*.5}
+\contentsline {chapter}{\'{I}ndice de figuras}{\es@scroman {ix}}{section*.7}
+\contentsline {chapter}{\numberline {1}Intro. grafos y complej. Algor\IeC {\'\i }tmica}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Introducci\IeC {\'o}n de grafos}{2}{section.1.1}
+\contentsline {section}{\numberline {1.2}Intro. complejidad algor\IeC {\'\i }tmica}{14}{section.1.2}
+\contentsline {section}{\numberline {1.3}Estructuras de datos y B\IeC {\'u}squeda en Prof.}{26}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Matrices de adyacencia y listas de adyacencia}{27}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}B\IeC {\'u}squeda en profundidad}{33}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {1.3.3}Dos algoritmos de tiempo lineal}{41}{subsection.1.3.3}
+\contentsline {chapter}{\numberline {2}\IeC {\'A}rbol exp. , ramificacion y conect.}{59}{chapter.2}
+\contentsline {section}{\numberline {2.1}\IeC {\'A}rboles de expansi\IeC {\'o}n y ramificaci\IeC {\'o}n}{60}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Peso \IeC {\'o}ptimo de los \IeC {\'a}rboles de expansi\IeC {\'o}n}{60}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Ramificaciones \IeC {\'O}ptimas}{65}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}Enumeraci\IeC {\'o}n de \IeC {\'a}rboles de expansi\IeC {\'o}n}{77}{subsection.2.1.3}
+\contentsline {section}{\numberline {2.2}Circuitos, conjuntos de corte y conectividad}{89}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Circuitos fundamentales de un grafo}{90}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Conjuntos de corte fundamentales de un grafo}{96}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Conectividad}{99}{subsection.2.2.3}
+\contentsline {chapter}{\numberline {3}Grafos planos}{103}{chapter.3}
+\contentsline {section}{\numberline {3.1}Propiedades b\IeC {\'a}sicas de los grafos planos}{103}{section.3.1}
+\contentsline {section}{\numberline {3.2}G\IeC {\'e}nero, n\IeC {\'u}mero de cruces y densidad}{110}{section.3.2}
+\contentsline {section}{\numberline {3.3}Caracterizaciones de las planaridad}{119}{section.3.3}
+\contentsline {section}{\numberline {3.4}Grafos Dobles}{130}{section.3.4}
+\contentsline {section}{\numberline {3.5}Un algoritmo de pruebas de planaridad}{139}{section.3.5}
+\contentsline {chapter}{\numberline {4}Emparejamientos}{155}{chapter.4}
+\contentsline {section}{\numberline {4.1}Definiciones}{155}{section.4.1}
+\contentsline {section}{\numberline {4.2}Emparejamiento de m\IeC {\'a}xima cardinalidad}{157}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Emparejamientos perfectos}{173}{subsection.4.2.1}
+\contentsline {section}{\numberline {4.3}M\IeC {\'a}ximo peso de emparejamientos}{179}{section.4.3}
+\contentsline {chapter}{Bibliograf\'{\i }a}{201}{section*.86}

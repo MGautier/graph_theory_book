@@ -1,0 +1,72 @@
+\select@language {spanish}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces \relax }}{2}{figure.caption.8}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces \relax }}{4}{figure.caption.9}
+\contentsline {figure}{\numberline {1.3}{\ignorespaces \relax }}{5}{figure.caption.10}
+\contentsline {figure}{\numberline {1.4}{\ignorespaces \relax }}{5}{figure.caption.11}
+\contentsline {figure}{\numberline {1.5}{\ignorespaces \relax }}{6}{figure.caption.12}
+\contentsline {figure}{\numberline {1.6}{\ignorespaces \relax }}{7}{figure.caption.13}
+\contentsline {figure}{\numberline {1.7}{\ignorespaces \relax }}{9}{figure.caption.14}
+\contentsline {figure}{\numberline {1.8}{\ignorespaces \relax }}{9}{figure.caption.15}
+\contentsline {figure}{\numberline {1.9}{\ignorespaces \relax }}{10}{figure.caption.16}
+\contentsline {figure}{\numberline {1.10}{\ignorespaces Algoritmo de Dijkstra para el camino m\IeC {\'a}s corto\relax }}{22}{figure.caption.19}
+\contentsline {figure}{\numberline {1.11}{\ignorespaces \relax }}{24}{figure.caption.20}
+\contentsline {figure}{\numberline {1.12}{\ignorespaces Un algoritmo para comprobar el camino m\IeC {\'a}s largo\relax }}{25}{figure.caption.22}
+\contentsline {figure}{\numberline {1.13}{\ignorespaces (a) Un d\IeC {\'\i }grafo $G_1$, de su matriz de adyacencia $A_1$ y listas de adyacencia con su representaci\IeC {\'o}n tabular $T_1$. (b) Un grafo no dirigido $G_2$, de su matriz de adyacencia $A_2$ y listas de adyacencia con su representaci\IeC {\'o}n tabular\relax }}{29}{figure.caption.23}
+\contentsline {figure}{\numberline {1.14}{\ignorespaces \relax }}{33}{figure.caption.25}
+\contentsline {figure}{\numberline {1.15}{\ignorespaces Una b\IeC {\'u}squeda en profundidad de $G = \{Ad(v)|v \in V\}$ donde $Ad(v)$ es la lista de adyacencia para $v$.\relax }}{35}{figure.caption.26}
+\contentsline {figure}{\numberline {1.16}{\ignorespaces Un ejemplo que ilustra una aplicaci\IeC {\'o}n del algoritmo $DFS$.(a)El grafo de dos componentes, cuyas listas de adyacencia cuando son procesadas por el algoritmo $DFS$, producen la salida de abajo. (b)La expansi\IeC {\'o}n de los bosques F (en l\IeC {\'\i }neas continuas) de salida del algoritmo $DFS$. Las aristas de retroceso se muestran con l\IeC {\'\i }neas discontinuas.(c)La profundidad de los v\IeC {\'e}rtices ordenados.\relax }}{37}{figure.caption.27}
+\contentsline {figure}{\numberline {1.17}{\ignorespaces Un ejemplo que ilustra una aplicaci\IeC {\'o}n del algoritmo $DFS$ a un d\IeC {\'\i }grafo. (a) Un d\IeC {\'\i }grafo que somete al algoritmo $DFS$, produciendo la salida de abajo. (b) El bosque de expansi\IeC {\'o}n obtenido se muestra con l\IeC {\'\i }neas continuas. Retroceso, directas y cruces de aristas son mostradas en l\IeC {\'\i }neas discontinuas. (c) La profundidad de los v\IeC {\'e}rtices en orden.\relax }}{39}{figure.caption.28}
+\contentsline {figure}{\numberline {1.18}{\ignorespaces La b\IeC {\'u}squeda en profundidad de bloques del algoritmo.\relax }}{45}{figure.caption.29}
+\contentsline {figure}{\numberline {1.19}{\ignorespaces Ilustraci\IeC {\'o}n de una solicitud de la b\IeC {\'u}squeda en profundidad de bloques del algoritmo de la figura 1.18\relax }}{48}{figure.caption.30}
+\contentsline {figure}{\numberline {1.20}{\ignorespaces La b\IeC {\'u}squeda en profundidad para el algoritmo de componentes fuertemente conexas.\relax }}{54}{figure.caption.32}
+\contentsline {figure}{\numberline {1.21}{\ignorespaces \relax }}{55}{figure.caption.33}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Algoritmo de Prim para \IeC {\'a}rboles de expansi\IeC {\'o}n de coste m\IeC {\'\i }nimo\relax }}{62}{figure.caption.35}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Una aplicaci\IeC {\'o}n del algoritmo de Prim. Para cada iteraci\IeC {\'o}n del bucle mientras $T$ se convierte en $T \cup \{a\}$ y $V'$ se convierte en $V' \cup \{w\}$. Por \IeC {\'u}ltimo, $T$ es el \IeC {\'a}rbol de expansi\IeC {\'o}n de peso m\IeC {\'\i }nimo compuesto por las aristas de mayor peso\relax }}{63}{figure.caption.36}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Algoritmo de Edmond para encontrar una ramificaci\IeC {\'o}n m\IeC {\'a}xima\relax }}{70}{figure.caption.37}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Una aplicaci\IeC {\'o}n del algoritmo de Edmond para encontrar la m\IeC {\'a}xima ramificaci\IeC {\'o}n\relax }}{76}{figure.caption.38}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces \relax }}{78}{figure.caption.39}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces \relax }}{81}{figure.caption.40}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Un Algoritmo para encontrar el n\IeC {\'u}mero de \IeC {\'a}rboles de expansi\IeC {\'o}n de ra\IeC {\'\i }ces r en un d\IeC {\'\i }grafo con matriz de grado K, o el n\IeC {\'u}mero de \IeC {\'a}rboles de expansi\IeC {\'o}n de un grafo no dirigido con matriz de grado K\relax }}{88}{figure.caption.41}
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Algunos circuitos de $G$ expresados como una combinaci\IeC {\'o}n lineal de circuitos fundamentales de $G$ con respecto a $T$\relax }}{90}{figure.caption.42}
+\contentsline {figure}{\numberline {2.9}{\ignorespaces \relax }}{95}{figure.caption.43}
+\contentsline {figure}{\numberline {2.10}{\ignorespaces \relax }}{96}{figure.caption.44}
+\contentsline {figure}{\numberline {2.11}{\ignorespaces Para ilustrar, con referencia a la figura 2.10, que el anillo de la suma de dos conjuntos de corte arbitrarios o la uni\IeC {\'o}n disjunta de aristas del conjunto de corte\relax }}{99}{figure.caption.45}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces \relax }}{104}{figure.caption.47}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces \relax }}{105}{figure.caption.48}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces \relax }}{111}{figure.caption.49}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces \relax }}{112}{figure.caption.50}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces \relax }}{115}{figure.caption.51}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces \relax }}{117}{figure.caption.52}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces \relax }}{120}{figure.caption.53}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces \relax }}{121}{figure.caption.54}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces \relax }}{123}{figure.caption.55}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces \relax }}{127}{figure.caption.56}
+\contentsline {figure}{\numberline {3.11}{\ignorespaces \relax }}{128}{figure.caption.57}
+\contentsline {figure}{\numberline {3.12}{\ignorespaces \relax }}{130}{figure.caption.58}
+\contentsline {figure}{\numberline {3.13}{\ignorespaces \relax }}{132}{figure.caption.59}
+\contentsline {figure}{\numberline {3.14}{\ignorespaces \relax }}{133}{figure.caption.60}
+\contentsline {figure}{\numberline {3.15}{\ignorespaces \relax }}{134}{figure.caption.61}
+\contentsline {figure}{\numberline {3.16}{\ignorespaces \relax }}{135}{figure.caption.62}
+\contentsline {figure}{\numberline {3.17}{\ignorespaces \relax }}{141}{figure.caption.63}
+\contentsline {figure}{\numberline {3.18}{\ignorespaces \relax }}{143}{figure.caption.65}
+\contentsline {figure}{\numberline {3.19}{\ignorespaces Algoritmo para comprobaci\IeC {\'o}n de planaridad\relax }}{147}{figure.caption.66}
+\contentsline {figure}{\numberline {3.20}{\ignorespaces Una aplicaci\IeC {\'o}n del algoritmo de comprobaci\IeC {\'o}n de planaridad\relax }}{150}{figure.caption.67}
+\contentsline {figure}{\numberline {3.21}{\ignorespaces Una aplicaci\IeC {\'o}n del algoritmo de comprobaci\IeC {\'o}n de planaridad\relax }}{153}{figure.caption.69}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces \relax }}{156}{figure.caption.70}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces \relax }}{158}{figure.caption.71}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces La b\IeC {\'u}squeda de la trayectoria $M$-aumentada por el procedimiento \emph {MAPS(G)}\relax }}{163}{figure.caption.72}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces \relax }}{164}{figure.caption.73}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Algoritmo de emparejamiento de m\IeC {\'a}xima cardinalidad.\relax }}{168}{figure.caption.74}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Una aplicaci\IeC {\'o}n del algoritmo de emparejamientos de m\IeC {\'a}xima cardinalidad.\relax }}{171}{figure.caption.75}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces \relax }}{176}{figure.caption.77}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces \relax }}{178}{figure.caption.78}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Procedimento de la variable de doble cambio, DVC(Dual-variable changes)\relax }}{186}{figure.caption.79}
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Procedimiento de $\delta $-evaluaci\IeC {\'o}n, DEV\relax }}{188}{figure.caption.80}
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Procedimiento del \IeC {\'a}rbol H\IeC {\'u}ngaro, HUT\relax }}{191}{figure.caption.81}
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Algoritmo de los emparejamientos de m\IeC {\'a}ximo peso.\relax }}{192}{figure.caption.82}
+\contentsline {figure}{\numberline {4.13}{\ignorespaces \relax }}{194}{figure.caption.83}
+\contentsline {figure}{\numberline {4.14}{\ignorespaces \relax }}{196}{figure.caption.84}

@@ -1,0 +1,31 @@
+\BOOKMARK [0][-]{section*.3}{\315ndice general}{}
+\BOOKMARK [0][-]{section*.5}{\315ndice de Tablas}{}
+\BOOKMARK [0][-]{section*.7}{\315ndice de figuras}{}
+\BOOKMARK [0][-]{chapter.1}{Intro. grafos y complej. Algor\355tmica}{}
+\BOOKMARK [1][-]{section.1.1}{Introducci\363n de grafos}{chapter.1}
+\BOOKMARK [1][-]{section.1.2}{Intro. complejidad algor\355tmica}{chapter.1}
+\BOOKMARK [1][-]{section.1.3}{Estructuras de datos y B\372squeda en Prof.}{chapter.1}
+\BOOKMARK [2][-]{subsection.1.3.1}{Matrices de adyacencia y listas de adyacencia}{section.1.3}
+\BOOKMARK [2][-]{subsection.1.3.2}{B\372squeda en profundidad}{section.1.3}
+\BOOKMARK [2][-]{subsection.1.3.3}{Dos algoritmos de tiempo lineal}{section.1.3}
+\BOOKMARK [0][-]{chapter.2}{\301rbol exp. , ramificacion y conect.}{}
+\BOOKMARK [1][-]{section.2.1}{\301rboles de expansi\363n y ramificaci\363n}{chapter.2}
+\BOOKMARK [2][-]{subsection.2.1.1}{Peso \363ptimo de los \341rboles de expansi\363n}{section.2.1}
+\BOOKMARK [2][-]{subsection.2.1.2}{Ramificaciones \323ptimas}{section.2.1}
+\BOOKMARK [2][-]{subsection.2.1.3}{Enumeraci\363n de \341rboles de expansi\363n}{section.2.1}
+\BOOKMARK [1][-]{section.2.2}{Circuitos, conjuntos de corte y conectividad}{chapter.2}
+\BOOKMARK [2][-]{subsection.2.2.1}{Circuitos fundamentales de un grafo}{section.2.2}
+\BOOKMARK [2][-]{subsection.2.2.2}{Conjuntos de corte fundamentales de un grafo}{section.2.2}
+\BOOKMARK [2][-]{subsection.2.2.3}{Conectividad}{section.2.2}
+\BOOKMARK [0][-]{chapter.3}{Grafos planos}{}
+\BOOKMARK [1][-]{section.3.1}{Propiedades b\341sicas de los grafos planos}{chapter.3}
+\BOOKMARK [1][-]{section.3.2}{G\351nero, n\372mero de cruces y densidad}{chapter.3}
+\BOOKMARK [1][-]{section.3.3}{Caracterizaciones de las planaridad}{chapter.3}
+\BOOKMARK [1][-]{section.3.4}{Grafos Dobles}{chapter.3}
+\BOOKMARK [1][-]{section.3.5}{Un algoritmo de pruebas de planaridad}{chapter.3}
+\BOOKMARK [0][-]{chapter.4}{Emparejamientos}{}
+\BOOKMARK [1][-]{section.4.1}{Definiciones}{chapter.4}
+\BOOKMARK [1][-]{section.4.2}{Emparejamiento de m\341xima cardinalidad}{chapter.4}
+\BOOKMARK [2][-]{subsection.4.2.1}{Emparejamientos perfectos}{section.4.2}
+\BOOKMARK [1][-]{section.4.3}{M\341ximo peso de emparejamientos}{chapter.4}
+\BOOKMARK [0][-]{section*.86}{Bibliograf\355a}{}

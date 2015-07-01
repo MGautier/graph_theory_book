@@ -1,0 +1,88 @@
+%%% ¡ATENCIÓN! Si el documento no te compila, lee la linea 58 de este
+%%% fichero. 
+%%% 
+
+% - Fichero con paquetes que se usan a menudo. Prablemente llege a
+% - tener más de los necesitados, sin embargo ahorra muchos
+% - quebraderos de cabeza.
+
+\ProvidesPackage{paquetes}
+
+% -- Paquetes de estilo del documento.
+\usepackage[utf8]{inputenc} % Codificación de los ficheros de entrada
+\usepackage[T1]{fontenc} % Formato de las fuentes
+\usepackage[spanish]{babel} % Traducción al español
+\usepackage{color} % Paquete de colores
+\usepackage[colorlinks=true,linkcolor=verde]{hyperref}
+                                % Añade referencias en el fichero pdf,
+                                % de color verde en este caso. Mirar
+                                % el paquete de colores para ver los
+                                % distintos colores.
+%\usepackage[left=2.5cm,top=3.5cm,right=2.5cm,bottom=3.5cm]{geometry}
+                                % Sin este paquete, el fichero toma
+                                % demasiados márgenes. Con esto los
+                                % reducimos, aprovechando algo más el
+                                % folio.
+
+
+%\usepackage[Rejne]{fncychap}% Sonny, Glenn, Lenny, Conny, Rejne, Bjarne
+% Este último paquete, modifica el estilo del título de los
+% capítulos. Descomentalo y prueba las 6 opciones.
+
+% -- Paquetes matemáticos: fuentes, simbolos, teoremas...
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{amsmath}
+
+% -- Funcionalidades extras para las tablas
+\usepackage{array}
+\usepackage{multirow}
+\usepackage{supertabular}
+
+% -- Para mostrar código, resaltando sintaxis de muchos lenguajes de
+% -- programación, como C/C++, Java, SQL, Pascal, y un largo etc...
+\usepackage{listings}
+
+% -- Algunos paquetes más
+\usepackage{fancyvrb}
+\usepackage{caption} % Permite añadir pies de imagen y de tabla
+\usepackage{eurosym} % Para el simbolo del euro
+\usepackage{float} % Nos permite trabajar con objetos float.
+%\usepackage{fullpage} % Nos da más opciones para el formateo de una
+                      % página
+\usepackage{graphicx} % Para incluir imágenes
+\usepackage{tikz} % Parar generar gráficos avanzados
+%\usepackage{rotating}
+%\usepackage{pxfonts}
+%\usepackage{tgpagella}% Fuente cool para mis
+                      % documentos, ;-), necesario tener instalado el
+                      % paquete .deb texlive-fonts-texgyre. Elegir
+                      % entre esta y la de abajo a poder ser.
+
+%\usepackage[sc]{mathpazo} % Es la antigua URW Palladio(basada en Palatino)
+%\linespread{1.05}         % Palatino needs more leading(space between lines)
+                           % Es preferible usar tgpagella
+
+\usepackage{charter} % Fuente charter, la más bonita que he
+                      % encontrado
+
+%\usepackage{times} Para fuente times
+%\usepackage[scaled=0.92]{helvet}
+%\usepackage{courier}
+%\usepackage{hyphenat}
+%\usepackage{makeidx}
+%\usepackage{tocbibind}
+%\usepackage{graphicx}
+%\usepackage{enumerate}
+%\usepackage{hyphenat}
+%\usepackage{amstext}
+%\usepackage{alltt}
+%\usepackage{listings}
+%\usepackage{dcolumn}
+%\usepackage{array}
+%\usepackage{tabularx}
+%\usepackage{wrapfig}
+%\usepackage{array}
+%\usepackage{xspace}
+%\usepackage{subfigure}
